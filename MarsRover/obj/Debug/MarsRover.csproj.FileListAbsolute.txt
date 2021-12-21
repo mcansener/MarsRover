@@ -1,0 +1,8 @@
+C:\Users\mcans\source\repos\MarsRover\MarsRover\bin\Debug\MarsRover.exe.config
+C:\Users\mcans\source\repos\MarsRover\MarsRover\bin\Debug\MarsRover.exe
+C:\Users\mcans\source\repos\MarsRover\MarsRover\bin\Debug\MarsRover.pdb
+C:\Users\mcans\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.AssemblyReference.cache
+C:\Users\mcans\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.SuggestedBindingRedirects.cache
+C:\Users\mcans\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.CoreCompileInputs.cache
+C:\Users\mcans\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.exe
+C:\Users\mcans\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.pdb
