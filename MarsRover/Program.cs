@@ -17,9 +17,13 @@ namespace MarsRover
                              3 3 E
                              MMRMMRMRRM";
 
-            InitializeRovers(input);
-            rovers[0].Move();
-            rovers[1].Move();
+            InitializeRovers(input);            
+
+            foreach (var rover in rovers)
+            {
+                rover.Move();
+                Console.WriteLine(rover.XLocation + " " + rover.YLocation + " " + rover.CurrentDirection.ToString()[0]);
+            }
         }
 
         /// <summary>
